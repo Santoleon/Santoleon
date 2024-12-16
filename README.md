@@ -1,9 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago León  
 
-<!--
-**Santoleon/Santoleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero Industrial recién egresado** de Colombia, con un gran interés en el análisis de datos y la tecnología. Mi objetivo es aplicar mis habilidades para resolver problemas, optimizar procesos y generar valor a través del uso de herramientas y metodologías basadas en datos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m finishing my python project for Henry, with some databases from csv files and I need to tranform it to a new DF and upload it to Power BI
--->
+## 🛠️ Habilidades técnicas  
+- **Lenguajes de programación:** Python y SQL  
+- **Análisis de datos y visualización:**  
+  - Power BI  
+  - Looker Studio  
+  - Excel avanzado  
+- **Herramientas de productividad:** Suite de Office  
+
+---
+
+## 🌍 Idiomas  
+- **Español:** Nativo  
+- **Inglés:** Buen nivel (escrito y hablado)  
+
+---
+
+## 🚀 Sobre mí  
+Me destaco por mi **rápida capacidad de aprendizaje**, lo que me permite adaptarme rápidamente a nuevos desafíos y tecnologías. Estoy en búsqueda de oportunidades profesionales en el ámbito de **Data Analytics** donde pueda crecer y contribuir al éxito de una organización.  
+
+---
+
+## 📫 ¡Conectemos!  
+- **LinkedIn:** [https://www.linkedin.com/in/santiagoleongarzon01/](#)  
+- **Correo electrónico:** [santileongarzon@gmail.com](#)   
+
+¡Gracias por visitar mi perfil! 🌟  
