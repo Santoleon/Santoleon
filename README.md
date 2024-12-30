@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Santiago León  
 
-Soy **Ingeniero Industrial recién egresado** de de Universidad Nacional de Colombia, con un gran interés en el análisis de datos y la tecnología. Mi objetivo es aplicar mis habilidades para resolver problemas, optimizar procesos y generar valor a través del uso de herramientas y metodologías basadas en datos.  
+Soy **Ingeniero Industrial recién egresado** de de Universidad Nacional de Colombia, con un gran interés en el análisis de datos y la tecnología. Mi objetivo es aplicar mis habilidades para resolver problemas, optimizar procesos y generar valor a través del uso de herramientas y metodologías basadas en la gestión y análisis de datos.  
 
 ---
 
