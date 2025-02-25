@@ -5,7 +5,7 @@ Soy **Ingeniero Industrial bilingüe (B2)** de de Universidad Nacional de Colomb
 ---
 
 ## 🛠️ Habilidades técnicas  
-- **Lenguajes de programación:** Python y SQL  
+- **Lenguajes de programación:** Python, Java, SQL y R
 - **Análisis de datos y visualización:**  
   - Power BI  
   - Looker Studio  
@@ -16,7 +16,8 @@ Soy **Ingeniero Industrial bilingüe (B2)** de de Universidad Nacional de Colomb
 
 ## 🌍 Idiomas  
 - **Español:** Nativo  
-- **Inglés:** B2 
+- **Inglés:** B2
+- **Francés:** A2
 
 ---
 
