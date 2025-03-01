@@ -10,6 +10,7 @@ Soy **Ingeniero Industrial bilingüe (B2)** de de Universidad Nacional de Colomb
   - Power BI  
   - Looker Studio  
   - Excel avanzado
+  - GAMS
   - Google Analytics
   - ITMS Analytics
 - **Herramientas de productividad:** Suite de Office  
