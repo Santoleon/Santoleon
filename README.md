@@ -25,7 +25,7 @@ Soy **Ingeniero Industrial bilingüe (B2)** de de Universidad Nacional de Colomb
 ---
 
 ## 🚀 Sobre mí  
-Me destaco por mi **rápida capacidad de aprendizaje**, lo que me permite adaptarme rápidamente a nuevos desafíos y tecnologías. Estoy en búsqueda de oportunidades profesionales en el ámbito de **Data Analytics** donde pueda crecer y contribuir al éxito de una organización.  
+Me destaco por mi **rápida capacidad de aprendizaje**, lo que me permite adaptarme rápidamente a nuevos desafíos y tecnologías. Estoy en búsqueda de oportunidades profesionales en el ámbito de **Data Analytics** donde pueda crecer a nivel profesional. personal y al mismo tiempo poder contribuir al éxito de una organización.  
 
 ---
 
