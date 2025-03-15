@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Santiago León  
 
-Soy **Ingeniero Industrial bilingüe (B2)** de de Universidad Nacional de Colombia, con un gran interés en el análisis de datos y la tecnología. Mi objetivo es aplicar mis habilidades para resolver problemas, optimizar procesos y generar valor a través del uso de herramientas y metodologías basadas en la gestión y análisis de datos.  
+Soy **Ingeniero Industrial bilingüe (B2)** graduado de la Universidad Nacional de Colombia, con un gran interés en el análisis de datos y BI. Mi objetivo es aplicar mis habilidades para resolver problemas, optimizar procesos y generar valor a través del uso de herramientas y metodologías basadas en la gestión y análisis de datos.  
 
 ---
 
